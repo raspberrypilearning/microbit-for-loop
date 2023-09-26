@@ -1,10 +1,10 @@
-When you add a `for index`{:class='microbitloops'} block to your Workspace, the `index`{:class='microbitvariables'} variable is created.
+When you add a `for`{:class='microbitloops'}`index`{:class='microbitvariables'} block to your Workspace, the `index`{:class='microbitvariables'} variable is created.
 
 The `index`{:class='microbitvariables'} variable takes on each value from `0` to the end number and counts up by one each time.
 
 You used this loop in the Sleep tracker project to create a timer.
 
-You renamed the `index`{:class='microbitvariables'} variable to `second`, because your timer increased each second.
+You renamed the `index`{:class='microbitvariables'} variable to `second`{:class='microbitvariables'}, because your timer increased each second.
 
 **Tip:** 💡 It is good to give a variable a meaningful name so you can later find it easily in your code.
 
