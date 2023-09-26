@@ -12,4 +12,6 @@ You renamed the `index`{:class='microbitvariables'} variable to `second`{:class=
 
 <br>
 
-- You can find the `for index`{:class='microbitloops'} block in the `Loops`{:class='microbitloops'} menu in your Toolbox.
+- You can find the `for `{:class='microbitloops'}`index`{:class='microbitvariables'} block in the `Loops`{:class='microbitloops'} menu in your Toolbox.
+
+<img src="images/forindex-location.png" alt="The Loops menu expanded with the for index block highlighted." width="200"/>
