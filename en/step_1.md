@@ -8,7 +8,7 @@ You renamed the `index`{:class='microbitvariables'} variable to `second`{:class=
 
 **Tip:** 💡 It is good to give a variable a meaningful name so you can later find it easily in your code.
 
-<div style="position:relative;height:calc(125px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:80%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_Mgra5x1axVT7" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:calc(150px + 5em);width:80%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:80%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_Mgra5x1axVT7" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 <br>
 
