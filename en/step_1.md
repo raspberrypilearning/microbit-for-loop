@@ -8,9 +8,14 @@ You renamed the `index`{:class='microbitvariables'} variable to `second`{:class=
 
 **Tip:** 💡 It is good to give a variable a meaningful name so you can later find it easily in your code.
 
-<div style="position:relative;height:calc(150px + 5em);width:80%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:80%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_Mgra5x1axVT7" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-<br>
+```microbit
+function timer () {
+    for (let second = 0; second <= 2; second++) {
+        basic.showNumber(second + 1)
+        basic.pause(1000)
+    }
+}
+```
 
 - You can find the `for `{:class='microbitloops'}`index`{:class='microbitvariables'} block in the `Loops`{:class='microbitloops'} menu in your Toolbox.
 
