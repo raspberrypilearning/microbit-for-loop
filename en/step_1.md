@@ -1,4 +1,4 @@
-When you add a `for`{:class='microbitloops'} `index`{:class='microbitvariables'} block to your workspace, the `index`{:class='microbitvariables'} variable is created.
+When you add a `for`{:class='microbitloops'} `index`{:class='microbitvariables'} block to your workspace, the `index`{:class='microbitvariables'} variable is automatically created.
 
 The `index`{:class='microbitvariables'} variable takes on each value from `0` to the end number and counts up by one each time.
 
