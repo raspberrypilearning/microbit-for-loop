@@ -1,12 +1,12 @@
-When you add a `for`{:class='microbitloops'} `index`{:class='microbitvariables'} block to your workspace, the `index`{:class='microbitvariables'} variable is automatically created.
+Wanneer je een `voor`{:class='microbitloops'} `index`{:class='microbitvariables'} blok aan je bewerkingspaneel toevoegt, wordt de `index`{:class='microbitvariables'} variabele automatisch aangemaakt.
 
-The `index`{:class='microbitvariables'} variable takes on each value from `0` to the end number and counts up by one each time.
+De variabele `index`{:class='microbitvariables'} neemt elke waarde aan van '0' tot het eindgetal en telt elke keer met één op.
 
-You used this loop in the Sleep tracker project to create a timer.
+Je hebt deze lus gebruikt in het Slaap-monitor project om een timer te maken.
 
-You renamed the `index`{:class='microbitvariables'} variable to `second`{:class='microbitvariables'}, because your timer increased each second.
+Je hebt de `index`{:class='microbitvariables'} variabele hernoemd naar `seconde`{:class='microbitvariables'}, omdat je timer elke seconde steeg.
 
-**Tip:** 💡 It is good to give a variable a meaningful name so you can find it easily in your code later.
+**Tip:** 💡 Het is goed om een variabele een logische naam te geven, zodat je deze later gemakkelijk in je code kunt terugvinden.
 
 ```microbit
 function timer () {
@@ -17,6 +17,6 @@ function timer () {
 }
 ```
 
-- You can find the `for`{:class='microbitloops'} `index`{:class='microbitvariables'} block in the `Loops`{:class='microbitloops'} menu in your Toolbox.
+- Je kunt het blok `voor`{:class='microbitloops'} `index`{:class='microbitvariables'} in het `Lussen`{:class='microbitloops'} blokmenu in je Toolbox vinden.
 
 <img src="images/forindex-location.png" alt="The Loops menu expanded with the for index block highlighted." width="400"/>
